@@ -1,11 +1,19 @@
 # Hello! 👋 I'm Manuel Guerrero
 
+<div id="header" align="center">
+  <img width=200px src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWEzZnM0MXJkNW5qaHdzOTZxaDlva2Q4bjRwa2ppMXl3Zm9ram5lYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dsHLfnve1rFoBqOEl5/giphy.gif" />
+</div>
+
 🎯 **QA Engineer** | **Full-Stack Developer** | 💡 Passionate about automation, testing, AI and modern web development  
 🇪🇸 Spain | 🌍 
 
 ---
 
 ## 🛠️ Technologies & Tools
+
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
