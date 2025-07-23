@@ -49,6 +49,9 @@ A book management system using GitHub Pages with integrated JSON API and GitHub 
 🔹 [**Shift Planner**](https://github.com/mguerrerof/shift-planner)  
 A tool to organize and visualize work shifts efficiently.
 
+🔹 [**Working Hours**](https://github.com/mguerrerof/working-hours)  
+Track and visualize your working time easily with a Django app.
+
 ---
 
 ## 📬 Get in touch
